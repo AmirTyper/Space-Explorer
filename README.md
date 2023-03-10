@@ -2,8 +2,8 @@
 This is a simple Python script that retrieves data from two APIs, and displays the current number of people in space and their names, as well as the current location of the International Space Station (ISS). The script is well-commented, and uses the colorama and termcolor libraries to make the output more visually appealing.
 
 <br />
-<img src="img1.png" />
-<img src="img2.png" />
+<img src="Images/img1.png" />
+<img src="Images/img2.png" />
 <br />
 
 # Dependencies
