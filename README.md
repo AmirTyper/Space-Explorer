@@ -17,6 +17,7 @@ This is a simple Python script that retrieves data from two APIs, and displays t
 
 * The script automatically clears the terminal window for a cleaner output.
 * This is a basic implementation, and it can be expanded to add more functionalities or data sources.
+* Enjoy! and let me know what would you like to see in the future version of this project.
 
 # Usage
 <pre><code>git clone https://github.com/AmirTyper/Space-Explorer
