@@ -14,6 +14,7 @@ This is a simple Python script that retrieves data from two APIs, and displays t
 # Notes
 
 * This script requires an active internet connection to fetch the data from the APIs. If there is no internet connection, the script will not work.
+
 * The script automatically clears the terminal window for a cleaner output.
 * This is a basic implementation, and it can be expanded to add more functionalities or data sources.
 
@@ -21,7 +22,7 @@ This is a simple Python script that retrieves data from two APIs, and displays t
 <pre><code>git clone https://github.com/AmirTyper/Space-Explorer
 cd Space-Explorer
 pip install -r requirements.txt
-python Space-Explorer.py
+python space.py
 </code></pre>
 
 # Support me
