@@ -29,8 +29,8 @@ python space.py
 The easiest way to support me is to click on the star (<g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐</g-emoji>) at the top of <a href="https://github.com/AmirTyper/Space-Explorer">GitHub page</a>.
 
 # Contact me
-<pre><code>Developer's Telegram: <a href="https://t.me/Mr_Amir_Typer">Click</a>
-Developer's Instagram: <a href="https://instagram.com/amir_typer">Click</a>
-Developer's Twitter: <a href="https://twitter.com/AmirTyper">Click</a>
+<pre><code>Developer's Telegram: <a href="https://t.me/Mr_Amir_Typer">click</a>
+Developer's Instagram: <a href="https://instagram.com/amir_typer">click</a>
+Developer's Twitter: <a href="https://twitter.com/AmirTyper">click</a>
 My Website: <a href="https://amirtyper.ir">amirtyper.ir</a>
 </code></pre>
